@@ -5,6 +5,7 @@ Managing the project here. The topic of projects could be anything I am interest
 Here are some thoughts or ideas that might be future projects
 - http://www.zhaozhichen.com/369
 - http://viewsourcecode.org/snaptoken/kilo/index.html
+- http://wiki.osdev.org/Main_Page https://littleosbook.github.io/
 
 Here are several key points of using this folder
 - The new projects start within this folder
